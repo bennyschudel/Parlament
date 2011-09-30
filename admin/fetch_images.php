@@ -9,6 +9,7 @@ $PARLAMENT_FEED_URL = array(
 	'SR' => 'http://www.parlament.ch/d/organe-mitglieder/staenderat/sitzordnung/Seiten/planCE.xml',
 	'NR' => 'http://www.parlament.ch/d/organe-mitglieder/nationalrat/sitzordnung/Seiten/planCN.xml',
 );
+//$PARLIAMENT_PHOTO_URL = 'http://www.parlament.ch/SiteCollectionImages/profil/original/';
 $PARLIAMENT_PHOTO_URL = 'http://www.parlament.ch/SiteCollectionImages/profil/gross/';
 
 $panels = array('NR', 'SR');
