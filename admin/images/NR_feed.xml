@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<serviceSeats>
+		<service id="1" legendNr="8" />
+		<service id="2" legendNr="8" />
+		<service id="3" legendNr="8" />
+		<service id="4" legendNr="9" />
+		<service id="5" legendNr="9" />
+		<service id="6" legendNr="6" />
+		<service id="7" legendNr="6" />
+		<service id="8" legendNr="7" />
+		<service id="9" legendNr="8" />
+		<service id="10" legendNr="8" />
+		<service id="11" legendNr="8" />
+	</serviceSeats>
+	
+	<members>
+				
+		<member id="1" photoID="2598" fractionID="1" canton="VS" bioID="1117" legendNr="1">
+			<![CDATA[Germanier Jean-René]]>
+		</member>
+		<member id="3" photoID="2621" fractionID="3" canton="VD" bioID="1108" legendNr="4">
+			<![CDATA[Parmelin Guy]]>
+		</member>		
+		<member id="2" photoID="2541" fractionID="3" canton="TG" bioID="519" legendNr="2">
+			<![CDATA[Walter Hansjörg]]>
+		</member>
+		<member id="4" photoID="2569" fractionID="4" canton="BL" bioID="806" legendNr="3">
+			<![CDATA[Graf Maya]]>
+		</member>
+		<member id="5" photoID="2382" fractionID="1" canton="NI" bioID="318" legendNr="4">
+			<![CDATA[Engelberger Edi]]>	
+		</member>
+		<member id="6" photoID="2477" fractionID="3" canton="VD" bioID="453">
+			<![CDATA[Bugnon André]]>
+		</member>			
+		<member id="7" photoID="2588" fractionID="0" canton="SG" bioID="1104" legendNr="4">
+			<![CDATA[Büchler Jakob]]>
+		</member>
+		<member id="8" photoID="2714" fractionID="2" canton="VD" bioID="3911" legendNr="4">
+			<![CDATA[Voruz Eric]]>
+		</member>
+		<member id="9" photoID="2652" fractionID="2" canton="TG" bioID="1295" legendNr="4">
+			<![CDATA[Graf-Litscher Edith]]>
+		</member>
+		<member id="10" photoID="2521" fractionID="0" canton="VD" bioID="498" legendNr="4">
+			<![CDATA[Neirynck Jacques]]>
+		</member>
+		<member id="11" photoID="2638" fractionID="3" canton="SO" bioID="1142" legendNr="4">
+			<![CDATA[Wobmann Walter]]>
+		</member>
+		<member id="12" photoID="2725" fractionID="1" canton="NE" bioID="3922" legendNr="4">
+			<![CDATA[Favre Laurent]]>
+		</member>
+		<member id="13" photoID="2333" fractionID="4" canton="VD" bioID="241">
+			<![CDATA[Zisyadis Josef]]>
+		</member>
+		<member id="14" photoID="2695" fractionID="3" canton="AG" bioID="3892">
+			<![CDATA[Killer Hans]]>
+		</member>
+		<member id="15"  photoID="2733" fractionID="4" canton="FR" bioID="4001">
+			<![CDATA[Weber-Gobet Marie-Thérèse]]>
+		</member>
+		<member id="16" photoID="2311" fractionID="3" canton="BL" bioID="151">
+			<![CDATA[Miesch Christian]]>
+		</member>
+		<member id="17" photoID="2711" fractionID="4" canton="BE" bioID="3908">
+			<![CDATA[von Graffenried Alec]]>
+		</member>		
+		<member id="18" photoID="2705" fractionID="3" canton="ZH" bioID="3902">
+			<![CDATA[Rickli Natalie Simone]]>
+		</member>
+		<member id="19" photoID="2685" fractionID="4" canton="ZH" bioID="3882">
+			<![CDATA[Girod Bastien]]>
+		</member>
+		<member id="20" photoID="2618" fractionID="3" canton="LU" bioID="1111">
+			<![CDATA[Müri Felix]]>
+		</member>
+		<member id="21" photoID="2615" fractionID="4" canton="AG" bioID="1112">
+			<![CDATA[Müller Geri]]>
+		</member>		
+		<member id="22" photoID="2704" fractionID="3" canton="SG" bioID="3901">
+			<![CDATA[Reimann Lukas]]>
+		</member>
+		<member id="23" photoID="2654" fractionID="4" canton="LU" bioID="1318">
+			<![CDATA[Schelbert Louis]]>
+		</member>
+		<member id="24" photoID="2323" fractionID="3" canton="AG" bioID="214">
+			<![CDATA[Stamm Luzi]]>
+		</member>
+		<member id="25" photoID="2716" fractionID="4" canton="SO" bioID="3913">
+			<![CDATA[Wyss Brigit]]>
+		</member>
+		<member id="26" photoID="2693" fractionID="3" canton="SH" bioID="3890">
+			<![CDATA[Hurter Thomas]]>
+		</member>
+		<member id="27" photoID="2727" fractionID="4" canton="VD" bioID="3924">
+			<![CDATA[van Singer Christian]]>
+		</member>
+		<member id="28" photoID="2634" fractionID="3" canton="VD" bioID="1123">
+			<![CDATA[Veillon Pierre-Franois]]>
+		</member>
+		<member id="29" photoID="2023" fractionID="4" canton="VD" bioID="724">
+			<![CDATA[Brélaz Daniel]]>
+		</member>
+		<member id="30" photoID="2503" fractionID="3" canton="ZH" bioID="479">
+			<![CDATA[Kaufmann Hans]]>
+		</member>
+		<member id="31" photoID="2697" fractionID="5" canton="BE" bioID="3894">
+			<![CDATA[Lumengo Ricardo]]>		
+		</member>		
+		<member id="32" photoID="2687" fractionID="3" canton="BE" bioID="3884">
+			<![CDATA[Graber Jean-Pierre]]>
+		</member>
+		<member id="33" photoID="2732" fractionID="4" canton="ZH" bioID="3999">
+			<![CDATA[Prelicz-Huber Katharina]]>
+		</member>
+		<member id="34" photoID="2631" fractionID="3" canton="SZ" bioID="1159">
+			<![CDATA[Schwander Pirmin]]>
+		</member>
+		<member id="35" photoID="2710" fractionID="4" canton="VD" bioID="3907">
+			<![CDATA[Thorens Goumaz Adèle]]>
+		</member>
+		<member id="36" photoID="2670" fractionID="3" canton="BE" bioID="3867">
+			<![CDATA[Aebi Andreas]]>
+		</member>
+		<member id="37" photoID="2650" fractionID="4" canton="NE" bioID="1293">
+			<![CDATA[John-Calame Francine]]>
+		</member>
+		<member id="38" photoID="2385" fractionID="3" canton="SZ" bioID="321">
+			<![CDATA[Föhn Peter]]>
+		</member>
+		<member id="39" photoID="2413" fractionID="2" canton="JU" bioID="349">
+			<![CDATA[Rennwald Jean-Claude]]>
+		</member>
+		<member id="40" photoID="2752" fractionID="3" canton="TI" bioID="4046">
+			<![CDATA[Quadri Lorenzo]]>
+		</member>		
+		<member id="41" photoID="2738" fractionID="2" canton="NE" bioID="4018">
+			<![CDATA[Maire Jacques-André]]>
+		</member>
+		<member id="42" photoID="2701" fractionID="3" canton="GE" bioID="3898">
+			<![CDATA[Nidegger Yves]]>
+		</member>
+		<member id="43" photoID="2706" fractionID="2" canton="GE" bioID="3903">
+			<![CDATA[Rielle Jean-Charles]]>
+		</member>
+		<member id="44" photoID="2494" fractionID="3" canton="AG" bioID="470">
+			<![CDATA[Glur Walter]]>
+		</member>
+		<member id="45" photoID="2745" fractionID="2" canton="BS" bioID="4032">
+			<![CDATA[Jans Beat]]>
+		</member>
+		<member id="46" photoID="2753" fractionID="3" canton="BE" bioID="4047">
+			<![CDATA[Fuchs Thomas]]>
+		</member>
+		<member id="47" photoID="2743" fractionID="2" canton="LU" bioID="4030">
+			<![CDATA[Birrer-Heimo Prisca]]>
+		</member>
+		<member id="48" photoID="2712" fractionID="3" canton="OW" bioID="3909">
+			<![CDATA[von Rotz Christoph]]>
+		</member>		
+		<member id="49" photoID="2751" fractionID="2" canton="BE" bioID="4045">
+			<![CDATA[Pardini Corrado]]>
+		</member>				
+		<member id="50" photoID="2523" fractionID="3" canton="SG" bioID="500">
+			<![CDATA[Pfister Theophil]]>
+		</member>
+		<member id="51" photoID="2692" fractionID="4" canton="GE" bioID="3889">
+			<![CDATA[Hodgers Antonio]]>
+		</member>
+		<member id="52" photoID="2626" fractionID="3" canton="GE" bioID="1115">
+			<![CDATA[Reymond André]]>
+		</member>		
+		<member id="53" photoID="2696" fractionID="4" canton="BS" bioID="3893">
+			<![CDATA[Lachenmeier-Thüring Anita]]>
+		</member>
+		<member id="54" photoID="2750" fractionID="3" canton="BS" bioID="4042">
+			<![CDATA[Frehner Sebastian]]>
+		</member>
+		<member id="55" photoID="2611" fractionID="4" canton="ZG" bioID="1158">
+			<![CDATA[Lang Josef]]>
+		</member>
+		<member id="56" photoID="2673" fractionID="3" canton="JU" bioID="3870">
+			<![CDATA[Baettig Dominique]]>
+		</member>
+		<member id="57" photoID="2672" fractionID="4" canton="ZH" bioID="3869">
+			<![CDATA[Bänziger Marlies]]>
+		</member>
+		<member id="58" photoID="2681" fractionID="3" canton="AG" bioID="3878">
+			<![CDATA[Flückiger-Bäni Sylvia]]>
+		</member>
+		<member id="59" photoID="2635" fractionID="4" canton="ZH" bioID="1110">
+			<![CDATA[Vischer Daniel]]>
+		</member>
+		<member id="60" photoID="2415" fractionID="3" canton="ZH" bioID="352">
+			<![CDATA[Schlüer Ulrich]]>
+		</member>
+		<member id="61" photoID="2648" fractionID="2" canton="VD" bioID="1279">
+			<![CDATA[Nordmann Roger]]>
+		</member>
+		<member id="62" photoID="2594" fractionID="1" canton="SO" bioID="1122">
+			<![CDATA[Fluri Kurt]]>
+		</member>
+		<member id="63" photoID="2702" fractionID="2" canton="BL" bioID="3899">
+			<![CDATA[Nussbaumer Eric]]>
+		</member>
+		<member id="64" photoID="2678" fractionID="1" canton="AG" bioID="3875">
+			<![CDATA[Eichenberger-Walther Corina]]>
+		</member>
+		<member id="65" photoID="2734" fractionID="2" canton="AG" bioID="4007">
+			<![CDATA[Chopard-Acklin Max]]>
+		</member>	
+		<member id="66" photoID="2735" fractionID="6" canton="GL" bioID="4008">
+			<![CDATA[Landolt Martin]]>
+		</member>
+		<member id="67" photoID="2668" fractionID="2" canton="VD" bioID="3833">
+			<![CDATA[Aubert Josiane]]>
+		</member>
+		<member id="68" photoID="2496" fractionID="6" canton="BE" bioID="472">
+			<![CDATA[Haller Ursula]]>
+		</member>
+		<member id="69" photoID="2726" fractionID="2" canton="VD" bioID="3923">
+			<![CDATA[Marra Ada]]>
+		</member>
+		<member id="70" photoID="2689" fractionID="6" canton="BE" bioID="3886">
+			<![CDATA[Grunder Hans]]>
+		</member>
+		<member id="71" photoID="2608" fractionID="2" canton="BE" bioID="1147">
+			<![CDATA[Kiener Nellen Margret]]>
+		</member>
+		<member id="72" photoID="2497" fractionID="6" canton="GR" bioID="473">
+			<![CDATA[Hassler Hansjörg]]>
+		</member>
+		<member id="73" photoID="2601" fractionID="2" canton="SO" bioID="1156">
+			<![CDATA[Heim Bea]]>
+		</member>
+		<member id="74" photoID="2354" fractionID="6" canton="GR" bioID="273">
+			<![CDATA[Gadient Brigitta M.]]>
+		</member>
+		<member id="75" photoID="2647" fractionID="2" canton="BE" bioID="1267">
+			<![CDATA[Stöckli Hans]]>
+		</member>			
+		<member id="76" photoID="2737" fractionID="3" canton="BE" bioID="4014">
+			<![CDATA[Brönnimann Andreas]]>
+		</member>
+		<member id="77" photoID="2579" fractionID="4" canton="GE" bioID="1065">
+			<![CDATA[Leuenberger Ueli]]>
+		</member>
+		<member id="78" photoID="2690" fractionID="3" canton="ZH" bioID="3887">
+			<![CDATA[Heer Alfred]]>
+		</member>
+		<member id="79" photoID="2422" fractionID="4" canton="BE" bioID="359">
+			<![CDATA[Teuscher Franziska]]>
+		</member>
+		<member id="80" photoID="2502" fractionID="3" canton="BE" bioID="478">
+			<![CDATA[Joder Rudolf]]>
+		</member>
+		<member id="81" photoID="2596" fractionID="4" canton="BE" bioID="1155">
+			<![CDATA[Frösch Therese]]>
+		</member>
+		<member id="82" photoID="2622" fractionID="3" canton="NE" bioID="1145">
+			<![CDATA[Perrin Yvan]]>
+		</member>
+		<member id="83" photoID="2684" fractionID="4" canton="SG" bioID="3881">
+			<![CDATA[Gilli Yvonne]]>
+		</member>
+		<member id="84" photoID="2688" fractionID="3" canton="VD" bioID="3885">
+			<![CDATA[Grin Jean-Pierre]]>
+		</member>
+		<member id="85" photoID="2728" fractionID="0" canton="ZH" bioID="3931">
+			<![CDATA[Weibel Thomas]]>
+		</member>
+		<member id="86" photoID="2519" fractionID="3" canton="ZH" bioID="542">
+			<![CDATA[Mörgeli Christoph]]>
+		</member>
+		<member id="87" photoID="2700" fractionID="0" canton="ZH" bioID="3897">
+			<![CDATA[Moser Tiana Angelina]]>
+		</member>
+		<member id="88" photoID="2713" fractionID="3" canton="BE" bioID="3910">
+			<![CDATA[von Siebenthal Erich]]>
+		</member>
+		<member id="89" photoID="2585" fractionID="0" canton="ZH" bioID="1138">
+			<![CDATA[Bäumle Martin]]>
+		</member>
+		<member id="90" photoID="2651" fractionID="3" canton="AG" bioID="1294">
+			<![CDATA[Füglistaller Lieni]]>
+		</member>
+		<member id="91" photoID="2694" fractionID="2" canton="ZH" bioID="3891">
+			<![CDATA[Jositsch Daniel]]>
+		</member>
+		<member id="92" photoID="2677" fractionID="1" canton="GR" bioID="3873">
+			<![CDATA[Caviezel Tarzisius]]>
+		</member>
+		<member id="93" photoID="2296" fractionID="2" canton="ZH" bioID="97">
+			<![CDATA[Gross Andreas]]>
+		</member>
+		<member id="94" photoID="2606" fractionID="1" canton="LU" bioID="1118">
+			<![CDATA[Ineichen Otto]]>
+		</member>
+		<member id="95" photoID="2669" fractionID="2" canton="FR" bioID="3865">
+			<![CDATA[Steiert Jean-François]]>
+		</member>
+		<member id="96" photoID="2680" fractionID="1" canton="ZH" bioID="3877">
+			<![CDATA[Fiala Doris]]>
+		</member>
+		<member id="97" photoID="2632" fractionID="2" canton="GE" bioID="1120">
+			<![CDATA[Sommaruga Carlo]]>
+		</member>
+		<member id="98" photoID="2715" fractionID="1" canton="BE" bioID="3912">
+			<![CDATA[Wasserfallen Christian]]>
+		</member>
+		<member id="99" photoID="2666" fractionID="2" canton="TI" bioID="3830">
+			<![CDATA[Carobbio Guscetti Marina]]>
+		</member>
+		<member id="100" photoID="2699" fractionID="1" canton="BS" bioID="3896">
+			<![CDATA[Malama Peter]]>
+		</member>
+		<member id="101" photoID="2436" fractionID="2" canton="GE" bioID="350">
+			<![CDATA[Roth-Bernasconi Maria]]>
+		</member>
+		<member id="102" photoID="2664" fractionID="1" canton="TI" bioID="3828">
+			<![CDATA[Cassis Ignazio]]>
+		</member>
+		<member id="103" photoID="2522" fractionID="2" canton="TI" bioID="499">
+			<![CDATA[Pedrina Fabio]]>
+		</member>
+		<member id="104" photoID="2682" fractionID="1" canton="VD" bioID="3879">
+			<![CDATA[Français Olivier]]>
+		</member>
+		<member id="105" photoID="2583" fractionID="2" canton="BE" bioID="1131">
+			<![CDATA[Allemann Evi]]>
+		</member>
+		<member id="106" photoID="2675" fractionID="1" canton="FR" bioID="3872">
+			<![CDATA[Bourgeois Jacques]]>
+		</member>
+		<member id="107" photoID="2421" fractionID="2" canton="AG" bioID="358">
+			<![CDATA[Stump Doris]]>
+		</member>
+		<member id="108" photoID="2691" fractionID="1" canton="GE" bioID="3888">
+			<![CDATA[Hiltpold Hugues]]>
+		</member>
+		<member id="109" photoID="2649" fractionID="0" canton="GE" bioID="1289">
+			<![CDATA[Barthassat Luc]]>
+		</member>
+		<member id="110" photoID="2369" fractionID="3" canton="TG" bioID="304">
+			<![CDATA[Baumann J. Alexander]]>
+		</member>
+		<member id="111" photoID="2708" fractionID="0" canton="VS" bioID="3905">
+			<![CDATA[Schmidt Roberto]]>
+		</member>
+		<member id="112" photoID="2399" fractionID="3" canton="LU" bioID="336">
+			<![CDATA[Kunz Josef]]>
+		</member>
+		<member id="113" photoID="2676" fractionID="0" canton="AG" bioID="3874">
+			<![CDATA[Egger-Wyss Esther]]>
+		</member>
+		<member id="114" photoID="2740" fractionID="3" canton="SG" bioID="4025">
+			<![CDATA[Büchel Roland Rino]]>
+		</member>
+		<member id="115" photoID="2707" fractionID="0" canton="ZH" bioID="3904">
+			<![CDATA[Schmid-Federer Barbara]]>
+		</member>
+		<member id="116" photoID="2595" fractionID="3" canton="VS" bioID="1127">
+			<![CDATA[Freysinger Oskar]]>
+		</member>
+		<member id="117" photoID="2674" fractionID="0" canton="SO" bioID="3871">
+			<![CDATA[Bischof Pirmin]]>
+		</member>
+		<member id="118" photoID="2476" fractionID="3" canton="SG" bioID="452">
+			<![CDATA[Bigger Elmar]]>
+		</member>
+		<member id="119" photoID="2742" fractionID="0" canton="VS" bioID="4027">
+			<![CDATA[Roux Paul-André]]>
+		</member>
+		<member id="120" photoID="2572" fractionID="3" canton="ZH" bioID="820">
+			<![CDATA[Schibli Ernst]]>
+		</member>
+		<member id="121" photoID="2748" fractionID="0" canton="BL" bioID="4040">
+			<![CDATA[Schneider-Schneiter Elisabeth]]>
+		</member>
+		<member id="122" photoID="2686" fractionID="3" canton="VD" bioID="3883">
+			<![CDATA[Glauser-Zufferey Alice]]>
+		</member>
+		<member id="123" photoID="2747" fractionID="0" canton="BE" bioID="4036">
+			<![CDATA[Streiff-Feller Marianne]]>
+		</member>
+		<member id="124" photoID="2536" fractionID="3" canton="ZH" bioID="514">
+			<![CDATA[Stahl Jürg]]>
+		</member>
+		<member id="125" photoID="2744" fractionID="0" canton="ZH" bioID="4031">
+			<![CDATA[Ingold Maja]]>
+		</member>
+		<member id="126" photoID="2274" fractionID="3" canton="ZH" bioID="28">
+			<![CDATA[Bortoluzzi Toni]]>
+		</member>		
+		<member id="127" photoID="2573" fractionID="2" canton="AG" bioID="823">
+		<![CDATA[Bruderer Wyss Pascale]]>
+		</member>	
+		<member id="128" photoID="2617" fractionID="1" canton="SG" bioID="1137">
+			<![CDATA[Müller Walter]]>
+		</member>
+		<member id="129" photoID="2597" fractionID="2" canton="ZH" bioID="1125">
+			<![CDATA[Galladé Chantal]]>
+		</member>
+		<member id="130" photoID="2616" fractionID="1" canton="AG" bioID="1141">
+			<![CDATA[Müller Philipp]]>
+		</member>
+		<member id="131" photoID="2613" fractionID="2" canton="FR" bioID="1150">
+			<![CDATA[Levrat Christian]]>
+		</member>
+		<member id="132" photoID="2749" fractionID="1" canton="BE" bioID="4041">
+			<![CDATA[Flück Peter]]>
+		</member>
+		<member id="133" photoID="2527" fractionID="2" canton="VS" bioID="504">
+			<![CDATA[Rossini Stéphane]]>
+		</member>
+		<member id="134" photoID="2612" fractionID="1" canton="ZH" bioID="1113">
+			<![CDATA[Leutenegger Filippo]]>
+		</member>
+		<member id="135" photoID="2455" fractionID="2" canton="ZH" bioID="405">
+			<![CDATA[Fehr Jacqueline]]>
+		</member>
+		<member id="136" photoID="2614" fractionID="1" canton="BE" bioID="1139">
+			<![CDATA[Markwalder Bär Christa]]>
+		</member>
+		<member id="137" photoID="2630" fractionID="2" canton="BS" bioID="1129">
+			<![CDATA[Schenker Silvia]]>
+		</member>
+		<member id="138" photoID="2619" fractionID="1" canton="ZH" bioID="1153">
+			<![CDATA[Noser Ruedi]]>
+		</member>			
+		<member id="139" photoID="2665" fractionID="2" canton="SZ" bioID="3829">
+			<![CDATA[Tschümperlin Andy]]>
+		</member>			
+		<member id="140" photoID="2660" fractionID="1" canton="VD" bioID="1346">
+			<![CDATA[Moret Isabelle]]>
+		</member>
+		<member id="141" photoID="2298" fractionID="2" canton="GR" bioID="105">
+			<![CDATA[Hämmerle Andrea]]>
+		</member>
+		<member id="142" photoID="2703" fractionID="1" canton="NE" bioID="3900">
+			<![CDATA[Perrinjaquet Sylvie]]>
+		</member>
+		<member id="143" photoID="2294" fractionID="2" canton="ZH" bioID="94">
+			<![CDATA[Goll Christine]]>
+		</member>
+		<member id="144" photoID="2698" fractionID="1" canton="GE" bioID="3895">
+			<![CDATA[Lüscher Christian]]>
+		</member>
+		<member id="145" photoID="2129" fractionID="2" canton="BL" bioID="487">
+			<![CDATA[Leutenegger Oberholzer Susanne]]>
+		</member>
+		<member id="146" photoID="2565" fractionID="1" canton="TI" bioID="801">
+			<![CDATA[Abate Fabio]]>
+		</member>
+		<member id="147" photoID="2526" fractionID="0" canton="TI" bioID="503">
+			<![CDATA[Robbiani Meinrado]]>
+		</member>
+		<member id="148" photoID="2383" fractionID="3" canton="ZH" bioID="319">
+			<![CDATA[Fehr Hans]]>
+		</member>		
+		<member id="149" photoID="2593" fractionID="0" canton="FR" bioID="1124">
+			<![CDATA[de Buman Dominique]]>
+		</member>
+		<member id="150" photoID="2661" fractionID="3" canton="SG" bioID="1345">
+			<![CDATA[Müller Thomas]]>
+		</member>
+		<member id="151" photoID="2659" fractionID="0" canton="ZH" bioID="1343">
+			<![CDATA[Hany Urs]]>
+		</member>
+		<member id="152" photoID="2644" fractionID="3" canton="ZH" bioID="1233">
+			<![CDATA[Rutschmann Hans]]>
+		</member>
+		<member id="153" photoID="2474" fractionID="0" canton="SO" bioID="450">
+			<![CDATA[Bader Elvira]]>
+		</member>
+		<member id="154" photoID="2529" fractionID="3" canton="ZG" bioID="506">
+			<![CDATA[Scherer Marcel]]>
+		</member>
+		<member id="155" photoID="2646" fractionID="0" canton="VS" bioID="1288">
+			<![CDATA[Amherd Viola]]>
+		</member>
+		<member id="156" photoID="2272" fractionID="3" canton="SO" bioID="26">
+			<![CDATA[Borer Roland F.]]>
+		</member>
+		<member id="157" photoID="2623" fractionID="0" canton="ZG" bioID="1109">
+			<![CDATA[Pfister Gerhard]]>
+		</member>		
+		<member id="158" photoID="2627" fractionID="3" canton="FR" bioID="1119">
+			<![CDATA[Rime Jean-François]]>
+		</member>		
+		<member id="159" photoID="2709" fractionID="0" canton="LU" bioID="3906">
+			<![CDATA[Segmüller Pius]]>
+		</member>			
+		<member id="160" photoID="2683" fractionID="3" canton="BE" bioID="3880">
+			<![CDATA[Geissbühler Andrea Martina]]>
+		</member>
+		<member id="161" photoID="2656" fractionID="0" canton="AG" bioID="1336">
+			<![CDATA[Zemp Markus]]>
+		</member>
+		<member id="162" photoID="2547" fractionID="3" canton="ZH" bioID="526">
+			<![CDATA[Zuppiger Bruno]]>
+		</member>
+		<member id="163" photoID="2657" fractionID="0" canton="LU" bioID="1337">
+			<![CDATA[Glanzmann-Hunkeler Ida]]>
+		</member>
+		<member id="164" photoID="2535" fractionID="3" canton="TG" bioID="513">
+			<![CDATA[Spuhler Peter]]>
+		</member>
+		<member id="165" photoID="2590" fractionID="0" canton="GR" bioID="1143">
+			<![CDATA[Cathomas Sep]]>
+		</member>
+		<member id="166" photoID="2292" fractionID="3" canton="AG" bioID="91">
+			<![CDATA[Giezendanner Ulrich]]>
+		</member>	
+		<member id="167" photoID="2489" fractionID="2" canton="ZH" bioID="465">
+			<![CDATA[Fehr Mario]]>			
+		</member>
+		<member id="168" photoID="2077" fractionID="1" canton="BL" bioID="100">
+			<![CDATA[Gysin Hans Rudolf]]>
+		</member>
+		<member id="169" photoID="2488" fractionID="2" canton="SH" bioID="464">
+			<![CDATA[Fehr Hans-Jürg]]>
+		</member>
+		<member id="170" photoID="2538" fractionID="1" canton="BE" bioID="516">
+			<![CDATA[Triponez Pierre]]>
+		</member>
+		<member id="171" photoID="2544" fractionID="2" canton="BE" bioID="522">
+			<![CDATA[Wyss Ursula]]>
+		</member>
+		<member id="172" photoID="2518" fractionID="1" canton="TG" bioID="496">
+			<![CDATA[Messmer Werner]]>
+		</member>
+		<member id="173" photoID="2143" fractionID="2" canton="SG" bioID="172">
+			<![CDATA[Rechsteiner Paul]]>
+		</member>
+		<member id="174" photoID="2609" fractionID="1" canton="AR" bioID="1114">
+			<![CDATA[Kleiner Marianne]]>
+		</member>
+		<member id="175" photoID="2448" fractionID="2" canton="SG" bioID="395">
+			<![CDATA[Fässler-Osterwalder Hidegard]]>
+		</member>
+		<member id="176" photoID="2602" fractionID="1" canton="UR" bioID="1103">
+			<![CDATA[Huber Gabi]]>
+		</member>
+		<member id="177" photoID="2423" fractionID="2" canton="ZH" bioID="360">
+			<![CDATA[Thanei Anita]]>
+		</member>
+		<member id="178" photoID="2409" fractionID="1" canton="TI" bioID="345">
+			<![CDATA[Pelli Fulvio]]>
+		</member>
+		<member id="179" photoID="2533" fractionID="0" canton="TI" bioID="511">
+			<![CDATA[Simoneschi-Cortesi Chiara]]>
+		</member>
+		<member id="180" photoID="2605" fractionID="1" canton="ZH" bioID="1126">
+			<![CDATA[Hutter Markus]]>
+		</member>
+		<member id="181" photoID="2470" fractionID="0" canton="FR" bioID="435">
+			<![CDATA[Meyer-Kaelin Thérèse]]>
+		</member>
+		<member id="182" photoID="2424" fractionID="1" canton="LU" bioID="361">
+			<![CDATA[Theiler Georges]]>
+		</member>
+		<member id="183" photoID="2516" fractionID="0" canton="SG" bioID="494">
+			<![CDATA[Meier-Schatz Lucrezia]]>
+		</member>
+		<member id="184" photoID="2487" fractionID="1" canton="VD" bioID="463">
+			<![CDATA[Favre Charles]]>
+		</member>
+		<member id="185" photoID="2592" fractionID="0" canton="VS" bioID="1133">
+			<![CDATA[Darbellay Christophe]]>
+		</member>
+		<member id="186" photoID="2587" fractionID="1" canton="GE" bioID="1144">
+			<![CDATA[Brunschwig Graf Martine]]>
+		</member>
+		<member id="187" photoID="2600" fractionID="0" canton="TG" bioID="1106">
+			<![CDATA[Häberli-Koller Brigitte]]>
+		</member>
+		<member id="188" photoID="2528" fractionID="1" canton="VD" bioID="505">
+			<![CDATA[Ruey Claude]]>
+		</member>
+		<member id="189" photoID="2637" fractionID="0" canton="SZ" bioID="1130">
+			<![CDATA[Wehrli Reto]]>
+		</member>
+		<member id="190" photoID="2351" fractionID="3" canton="BE" bioID="268">
+			<![CDATA[Schenk Simon]]>
+		</member>
+		<member id="191" photoID="2512" fractionID="0" canton="LU" bioID="490">
+			<![CDATA[Lustenberger Ruedi]]>
+		</member>
+		<member id="192" photoID="2679" fractionID="3" canton="LU" bioID="3876">
+			<![CDATA[Estermann Yvette]]>
+		</member>
+		<member id="193" photoID="2511" fractionID="0" canton="AI" bioID="489">
+			<![CDATA[Loepfe Arthur]]>
+		</member>
+		<member id="194" photoID="2542" fractionID="3" canton="BE" bioID="520">
+			<![CDATA[Wandfluh Hansruedi]]>
+		</member>
+		<member id="195" photoID="2393" fractionID="0" canton="BE" bioID="330">
+			<![CDATA[Hochreutener Norbert]]>
+		</member>
+		<member id="196" photoID="2270" fractionID="3" canton="ZH" bioID="15">
+			<![CDATA[Binder Max]]>
+		</member>
+		<member id="197" photoID="2580" fractionID="0" canton="AG" bioID="1071">
+			<![CDATA[Humbel Näf Ruth]]>
+		</member>
+		<member id="198" photoID="2372" fractionID="3" canton="SG" bioID="307">
+			<![CDATA[Brunner Toni]]>
+		</member>
+		<member id="199" photoID="2525" fractionID="0" canton="ZH" bioID="502">
+			<![CDATA[Riklin Kathy]]>
+		</member>
+		<member id="200" photoID="2454" fractionID="3" canton="BL" bioID="404">
+			<![CDATA[Baader Caspar]]>
+		</member>
+	</members>
+</plan>
